@@ -1,0 +1,3 @@
+files:
+  - source: jackson-lombok-1.1.jar
+    destination: /var/tmp
