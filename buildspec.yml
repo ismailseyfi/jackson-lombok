@@ -10,3 +10,4 @@ phases:
 artifacts:
   files:
     - target/jackson-lombok-1.1.jar
+    - appspec.yml
