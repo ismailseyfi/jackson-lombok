@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: jackson-lombok-1.1.jar
+  - source: target/jackson-lombok-1.1.jar
     destination: /var/tmp
